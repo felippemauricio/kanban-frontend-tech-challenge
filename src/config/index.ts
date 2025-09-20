@@ -1,0 +1,3 @@
+const { VITE_API_URL, VITE_BOARD_ID, VITE_BOARD_NAME } = import.meta.env;
+
+export { VITE_API_URL, VITE_BOARD_ID, VITE_BOARD_NAME };
