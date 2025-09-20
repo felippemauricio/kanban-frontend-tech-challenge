@@ -1,11 +1,10 @@
 # 📈 Kanban Board - FrontEnd
 
-![Vite](https://img.shields.io/badge/Vite-%236646FF.svg?style=for-the-badge&logo=vite&logoColor=white) 
+![Vite](https://img.shields.io/badge/Vite-%236646FF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React Query](https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
 
 ## 🏁 Getting Started
 
@@ -45,10 +44,10 @@ kanban-frontend-tech-challenge/
 
 ## 🛠️ Tech Stack
 
-- **Vite** – Build tool and development server for React  
+- **Vite** – Build tool and development server for React
 - **React** – Frontend library for building the UI
-- **TypeScript** – Strongly-typed language for safer, maintainable frontend code 
-- **React Query** – Data fetching and state management  
+- **TypeScript** – Strongly-typed language for safer, maintainable frontend code
+- **React Query** – Data fetching and state management
 - **Tailwind CSS** – Utility-first CSS framework for styling
 
 ## ⚙️ Installation (Frontend)
@@ -78,7 +77,7 @@ npm run dev
 
 This project has **CI configured with GitHub Actions**. On every push or pull request, the pipeline automatically runs:
 
-- **Lint & Formatting** – checks JS/TS code with ESLint and Prettier  
+- **Lint & Formatting** – checks JS/TS code with ESLint and Prettier
 - **Build** – ensures the frontend builds successfully with Vite
 
 ### Commands run in CI
